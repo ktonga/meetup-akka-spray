@@ -1,4 +1,4 @@
-name := """activator-akka-spray"""
+name := """meetup-akka-spray"""
 
 version := "1.0"
 
